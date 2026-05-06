@@ -1,6 +1,6 @@
 ﻿# tools-for-research
-## DATA SMOOTHING
-here we present a tool to smooth your date point by **moving average**
+  ## DATA SMOOTHING
+here we present a tool to smooth your data point by **moving average**
 ![](https://github.com/18297928865/tools-for-research/blob/main/smooth/f1.png)
 >click smooth.exe and the UI is like this
 here we can see
